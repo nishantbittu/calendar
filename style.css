@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: brown;
+    font-weight: bold;
+}
+
+header{
+    text-align: center;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    display: inline-block;
+    border-width: 3px;
+    background-color: bisque;
+}
+
+/* .jan{
+    background-color: black;
+    color: white;
+} */
+
+td{
+    width: 40px;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+.first{
+    margin: 18px;
+    margin-top: 5px;
+}
+
+.firstrow{
+    background-color: red;    
+}
+
+
